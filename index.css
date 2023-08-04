@@ -136,7 +136,7 @@ body {
 .ear-r .eyelid,
 .owl:hover .eyelid {
   display: none !important;
-  .beak2{
+  .beak2 {
     display: none;
   }
 }
@@ -162,6 +162,7 @@ body {
   bottom: 257px;
   left: 47px;
 }
+
 .leg-l,
 .leg-r {
   background-color: #ffcc30;
